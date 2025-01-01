@@ -10,7 +10,7 @@ export default function UserProfile() {
           className="w-10 h-10 rounded-full"
         />
         <div className="ml-3 hidden md:block">
-          <p className="text-sm font-semibold">John Doe</p>
+          <p className="text-sm font-semibold text-black">John Doe</p>
           <p className="text-xs text-gray-500">Administrator</p>
         </div>
       </div>
